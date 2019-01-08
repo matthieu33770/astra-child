@@ -1,2 +1,49 @@
 /*
+ Theme Name:   Astra Child
+ Theme URI:    http://example.com/astra-child/
+ Description:  Astra Child Theme for GlobeTrotter
+ Author:       Matthieu LONDEIX
+ Author URI:   http://example.com
+ Template:     astra
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags: one-column, two-columns, left-sidebar, e-commerce, right-sidebar, custom-colors, custom-menu, editor-style, featured-images, full-width-template, microformats, post-formats, rtl-language-support, theme-options, threaded-comments, translation-ready, blog
+ Text Domain:  astra-child
 */
+
+/* White */
+.has-white-color {
+	color: #FFFFFF;
+}
+
+.has-white-background-color {
+	background-color: #FFFFFF;
+}
+
+/* Mine Shaft */
+.has-mine-shaft-color {
+	color: #4A4A4A;
+}
+
+.has-mine-shaft-background-color {
+	background-color: #4A4A4A;
+}
+
+/* Mongoose */
+.has-mongoose-color {
+	color: #B09F82;
+}
+
+.has-mongoose-background-color {
+	background-color: #B09F82;
+}
+
+/* Pickled Bean */
+.has-pickled-bean-color {
+	color: #8B572A;
+}
+
+.has-pickled-bean-background-color {
+	background-color: #8B572A;
+}
